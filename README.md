@@ -1,6 +1,6 @@
 # Chrome Headful
 
-Just a chrome instance running inside a lambda function without headless mode
+Just a chrome running inside a lambda function without headless mode
 
 ## Usage
 
