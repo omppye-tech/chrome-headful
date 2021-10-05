@@ -3,10 +3,10 @@ FROM ubuntu:latest
 RUN apt update
 RUN apt clean
 
-RUN useradd weslenng
+RUN useradd omppye
 
-WORKDIR /home/weslenng
-RUN chown -R weslenng:weslenng .
+WORKDIR /home/omppye
+RUN chown -R omppye:omppye .
 
 RUN apt install -y xvfb fluxbox wget wmctrl gnupg2
 

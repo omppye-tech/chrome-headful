@@ -6,7 +6,7 @@
     "build": "tsc",
     "start": "node build/chrome-headful.js"
   },
-  "author": "Weslen Guerreiro <weslenng@outlook.com>",
+  "author": "Weslen Guerreiro <omppye@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^16.7.7",
